@@ -1,0 +1,32 @@
+* {
+  background-color: azure;
+  color: rgb(0, 117, 78);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  background-color: whitesmoke;
+}
+
+button {
+  width: 8vw;
+  height: 3vw;
+  background-color: rgb(0, 117, 78);
+  color: whitesmoke;
+  font-size: 1.5vw;
+}
+thead {
+  font-size: 2vw;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+table {
+margin-top: 5vw;
+border: 1px solid rgb(0, 43, 28);
+width: 50vw;
+}
